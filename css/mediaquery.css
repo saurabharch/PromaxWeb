@@ -1,0 +1,224 @@
+@media (max-width: 479px) {
+	
+}
+
+/*Tablet landscape (1024x768)*/
+@media (min-width:992px) and (max-width:1199px) {
+		#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 10px;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.carousel-control {
+    width: 24%;  
+}
+
+   
+}
+
+/*Tablet portrait (768x1024)*/
+@media (min-width:758px) and (max-width:800px){
+	#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 10px;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.carousel-control {
+    width: 24%;  
+}
+
+}
+
+/*Small tablet landscape (800x600)*/
+@media (min-width:790px) and (max-width:900px){
+	#quote-carousel .carousel-indicators {
+
+    width: 81%;
+    margin-top: 173%;
+    margin-left:-314px;
+
+}
+
+.golo-pica {
+    text-align: justify;
+    font-size: 18px;
+}
+
+
+#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 10px;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.carousel-control {
+    width: 24%;  
+}
+
+   
+}
+
+/*Small tablet portrait (600x800)*/
+@media (min-width:590px) and (max-width:767px){
+.img7 {
+  
+    width: 100%;
+}
+
+.img8 {
+  
+    width: 100%;
+}
+
+button.btn {
+    margin-bottom: 10px;}
+
+#quote-carousel .carousel-indicators {
+
+    width: 81%;
+    margin-top: 173%;
+    margin-left:-253px;
+
+}
+
+.golo-pica {
+    text-align: justify;
+    font-size: 18px;
+}
+
+
+#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 10px;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.carousel-control {
+    width: 24%;  
+}
+ 
+}
+/*Mobile  landscape (480x320)*/
+@media (min-width:470px) and (max-width:580px){
+.img7 {
+  
+    width: 100%;
+}
+
+.img8 {
+  
+    width: 100%;
+}
+
+button.btn {
+    margin-bottom: 10px;}
+	
+#quote-carousel .carousel-indicators {
+
+    width: 81%;
+    margin-top: 173%;
+    margin-left:-176px;
+
+}
+
+.golo-pica {
+    text-align: justify;
+    font-size: 15px;
+}
+
+
+#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 10px;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+   
+
+}
+
+/*Mobile portrait (320x480)*/
+@media (min-width:310px) and (max-width:470px){
+.img7 {
+  
+    width: 100%;
+}
+
+.img8 {
+  
+    width: 100%;
+}
+
+button.btn {
+    margin-bottom: 10px;}
+	
+
+#quote-carousel .carousel-indicators {
+
+    width: 94%;
+    margin-top: 173%;
+    margin-left: -146px;
+
+}
+
+.golo-pica {
+    text-align: justify;
+    font-size: 12px;
+}
+
+
+#quote-carousel .carousel-indicators li {
+    width: 24px;
+    height: 25px;}
+	
+	#quote-carousel {
+    margin-top: 0;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+}
